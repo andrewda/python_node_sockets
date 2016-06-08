@@ -1,0 +1,25 @@
+{
+  "name": "python_node_sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewda/python_node_sockets.git"
+  },
+  "author": "Andrew Dassonville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewda/python_node_sockets/issues"
+  },
+  "homepage": "https://github.com/andrewda/python_node_sockets"
+}
